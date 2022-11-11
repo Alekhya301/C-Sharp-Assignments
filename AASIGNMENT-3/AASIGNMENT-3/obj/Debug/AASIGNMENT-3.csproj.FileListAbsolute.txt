@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\AASIGNMENT-3\AASIGNMENT-3\bin\Debug\AASIGNMENT-3.exe.config
+C:\Users\ADMIN\source\repos\AASIGNMENT-3\AASIGNMENT-3\bin\Debug\AASIGNMENT-3.exe
+C:\Users\ADMIN\source\repos\AASIGNMENT-3\AASIGNMENT-3\bin\Debug\AASIGNMENT-3.pdb
+C:\Users\ADMIN\source\repos\AASIGNMENT-3\AASIGNMENT-3\obj\Debug\AASIGNMENT-3.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\AASIGNMENT-3\AASIGNMENT-3\obj\Debug\AASIGNMENT-3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\AASIGNMENT-3\AASIGNMENT-3\obj\Debug\AASIGNMENT-3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\AASIGNMENT-3\AASIGNMENT-3\obj\Debug\AASIGNMENT-3.exe
+C:\Users\ADMIN\source\repos\AASIGNMENT-3\AASIGNMENT-3\obj\Debug\AASIGNMENT-3.pdb
